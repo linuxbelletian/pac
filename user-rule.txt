@@ -1,0 +1,12 @@
+! Put user rules line by line in this file.
+! See https://adblockplus.org/en/filter-cheatsheet
+@@||dl.google.com
+||nexusmods.com
+||wikipedia.org
+||angular.io
+||dm5.com
+||lightnovel.cn
+||jcenter.bintray.com
+||gradle.org
+||github.com
+||jfrog.org
